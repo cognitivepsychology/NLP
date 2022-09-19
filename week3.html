@@ -1643,7 +1643,7 @@ div.tocify {
 코드임. 모든 브라우저는 html 소스 코드를 보여줌. 크롬은 Ctrl + U를
 사용.</li>
 <li>예시 1: <a href="https://www.gutenberg.org/files/37423/37423-h/37423-h.htm">Project
-Gutenberg EBook of <em>How We Think</em>, by John Dewey</a></li>
+Gutenberg EBook of <em>How We Think</em> by John Dewey</a></li>
 <li>예시 2: <a href="https://rvest.tidyverse.org/articles/starwars.html">스타워즈
 시리즈 소개</a></li>
 <li>예시 3: <a href="https://movie.naver.com/movie/point/af/list.naver?st=mcode&amp;sword=195758&amp;target=after&amp;page">국내영화
@@ -2113,6 +2113,7 @@ json_text.1 &lt;- map_dfr(json_text, function(x) as_tibble(x)) %&gt;%
 <pre class="r"><code>library(pdftools)
 
 ## pdf_text 함수로 pdf 파일에서 텍스트 추출하기.
+
 pdf &lt;- &quot;Selective updating of sentences - Introducing a new measure of verbal working memory_Fellman et al (2018).pdf&quot;
 txt &lt;- pdf_text(pdf)
 test &lt;- txt[10] # 열 번째 페이지 가져오기.
@@ -2122,42 +2123,44 @@ test %&gt;%
   str_split(&quot;\n&quot;) %&gt;%
   unlist() %&gt;%
   as_tibble() %&gt;%
-  rename(text = value)</code></pre>
-<pre><code>## # A tibble: 48 x 1
+  rename(text = value) %&gt;%
+  filter(text != &quot;&quot;)</code></pre>
+<pre><code>## # A tibble: 41 x 1
 ##    text                                                                         
 ##    &lt;chr&gt;                                                                        
 ##  1 &quot;Applied Psycholinguistics 39:2                                             ~
 ##  2 &quot;Fellman et al.: A new measure of verbal working memory&quot;                     
-##  3 &quot;&quot;                                                                           
-##  4 &quot;                  Table 3. Intercorrelations for all variables&quot;             
-##  5 &quot;                  in Experiment 1&quot;                                          
-##  6 &quot;&quot;                                                                           
-##  7 &quot;                  Measure            SUS            RSpan           OSpan&quot;  
-##  8 &quot;                  SUS                 &lt;U+2014&gt;&quot;                                    
-##  9 &quot;                  RSpan              .349             &lt;U+2014&gt;&quot;                    
-## 10 &quot;                  OSpan              .253            .372              &lt;U+2014&gt;&quot;   
-## # ... with 38 more rows</code></pre>
+##  3 &quot;                  Table 3. Intercorrelations for all variables&quot;             
+##  4 &quot;                  in Experiment 1&quot;                                          
+##  5 &quot;                  Measure            SUS            RSpan           OSpan&quot;  
+##  6 &quot;                  SUS                 &lt;U+2014&gt;&quot;                                    
+##  7 &quot;                  RSpan              .349             &lt;U+2014&gt;&quot;                    
+##  8 &quot;                  OSpan              .253            .372              &lt;U+2014&gt;&quot;   
+##  9 &quot;                  SymSpan            .241            .376             .506&quot; 
+## 10 &quot;                  Note: All correlations were statistically significant (p ~
+## # ... with 31 more rows</code></pre>
 <pre class="r"><code># 모든 페이지를 &quot;\n&quot;(행갈이) 단위로 텍스트 분리한 뒤 티블 형식으로 변환하기.
 txt %&gt;%
   unlist()%&gt;%
   str_split(&quot;\n&quot;) %&gt;%
   unlist() %&gt;%
   as_tibble() %&gt;%
-  rename(text = value)</code></pre>
-<pre><code>## # A tibble: 1,289 x 1
-##    text                                                
-##    &lt;chr&gt;                                               
-##  1 &quot;Applied Psycholinguistics 39 (2018), 275&lt;U+2013&gt;301&quot;      
-##  2 &quot;doi:10.1017/S0142716417000182&quot;                     
-##  3 &quot;&quot;                                                  
-##  4 &quot;&quot;                                                  
-##  5 &quot;Selective updating of sentences:&quot;                  
-##  6 &quot;Introducing a new measure of verbal&quot;               
-##  7 &quot;working memory&quot;                                    
-##  8 &quot;DANIEL FELLMAN, ANNA SOVERI, CHARLOTTE VIKTORSSON,&quot;
-##  9 &quot;SARAH HAGA, JOHANNES NYLUND, SANNA JOHANSSON,&quot;     
-## 10 &quot;JAKOB EDMAN, FELIX VON RENTELN, and MATTI LAINE&quot;   
-## # ... with 1,279 more rows</code></pre>
+  rename(text = value) %&gt;%
+  filter(text != &quot;&quot;)</code></pre>
+<pre><code>## # A tibble: 1,149 x 1
+##    text                                                                         
+##    &lt;chr&gt;                                                                        
+##  1 Applied Psycholinguistics 39 (2018), 275&lt;U+2013&gt;301                                 
+##  2 doi:10.1017/S0142716417000182                                                
+##  3 Selective updating of sentences:                                             
+##  4 Introducing a new measure of verbal                                          
+##  5 working memory                                                               
+##  6 DANIEL FELLMAN, ANNA SOVERI, CHARLOTTE VIKTORSSON,                           
+##  7 SARAH HAGA, JOHANNES NYLUND, SANNA JOHANSSON,                                
+##  8 JAKOB EDMAN, FELIX VON RENTELN, and MATTI LAINE                              
+##  9 Abo Akademi University                                                       
+## 10 Received: October 11, 2016             Accepted for publication: April 25, 2~
+## # ... with 1,139 more rows</code></pre>
 <pre class="r"><code>## pdf_data 함수로 pdf 파일에서 텍스트 추출하기.
 
 txt.1 &lt;- pdf_data(pdf)
