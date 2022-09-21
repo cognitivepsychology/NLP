@@ -1,5 +1,5 @@
 options(tibble.width = Inf) # 티블의 컬럼 수 보기 제한 해제.
-options(scipen = 999) # 지수 사용 금지
+options(scipen = 999) # 지수 사용 금지.
 options(max.print = 1500) # 콘솔에 인쇄되는 데이터의 수 1500개로 제한.
 
 ## 1. 웹 스크래핑 실습 1: 네이버 평점 리뷰(https://movie.naver.com/movie/board/review/list.naver)
