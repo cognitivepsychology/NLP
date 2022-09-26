@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100519</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미성년</title>
+            <author id="P00519" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">조경원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_부모님">
+        <p>아빠는 무능하고 엄마는 어리고 아이는 용감하다. 아빠는 무능해서 도망치고 엄마는 어려서 의연한 척하고 그럼 아이는 용감해서 맞서나. 아이는 잃을 게 없나. 아이는 잃는 게 무섭지 않나. 아직 어리니까 용서받을 수 있나. 아직 여리니까 용서해 줄 수 있나.</p>
+        <p>왜 자꾸 사랑하는 사람을 반면교사 삼고 살게 할까. 아이는 그래도 아이인데. 어른은 그래도 어른이면서.</p>
+        <p>​엄마, 오늘 3월 3일 삼겹살 데이야. 다른 게 아니고 삼겹살이 너무 먹고 싶은 거 있지. 먹고 힘내서 야자 열심히 할게요. 엄마, 오늘 학원 그냥 안 가면 안 되나? 집에 있고 싶은데. 엄마, 오늘만 야자 빼고 일찍 들어가면 안 돼? 아, 딱 삼 일만 학교 빠지고 쉬고 싶다. 안 되는 거 알지, 아는데. 아, 그냥 하는 말이지.</p>
+        <p>엄마, 나 아파.</p>
+        <p>나 집 가서 엄마랑 밥 먹을래.</p>
+        <p>오늘만.</p>
+    </text>
+</SJML>

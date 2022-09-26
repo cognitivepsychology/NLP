@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100528</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>존 버거 'A가 X에게' 감상문</title>
+            <author id="P00528" age="24" occupation="무직" sex="F" submission="온라인" handwriting="No">박수정</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_A가 X에게">
+        <p>선수한 사랑과 굳건한 믿음이 담긴 글들이 정갈하게 쓰여있다. 이렇게 내밀한 감정들이 담긴, 사적인 편지를 감히 읽어도 될까 싶을 정도이다. 일면 아이다의 일상과 감정이 그대로 적힌, 감옥에 있는 연인에게 안부를 묻는 일반적인 편지로도 볼 수 있겠지만 그 너머에 범접할 수 없는 분위기를 지니고 있다. 앞서 존 버거는 편지 뭉치들이 시간 순서대로 묶여있지 않음을 알려주지만 읽다보면 여기서 시간은 무용하다고 느낀다. 개인의 무력함을 느끼게 하는 세계의 거대한 흐름에 저항할  수 있는 힘은 어디서 얻을 수 있을까에 대한 답이 될 책이다. 아이다에겐 조용한 열정이라는 표현이 어울린다. 그들의 사랑과 신념이 원하는 결말을 맞이했기를 바란다.</p>
+    </text>
+</SJML>

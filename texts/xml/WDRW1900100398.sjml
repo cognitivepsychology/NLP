@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100398</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>언니에게</title>
+            <author id="P00398" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">노수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="언니">
+        <p>언니 잘 지내? 나는 잘 못 지내 언니가 그렇게 갔는데 내가 어떻게 잘 지낼 수 있겠어 언니 나쁜 사람인 거 언니도 알지 모르면 안 되지 언니가 나한테 어떻게 했는데…. 언니 거기서는 제발 잘 지내지 말고 꼭 내 생각만 하다 죽어야 해 아니 죽지 마 오래 살아 나 보다 더 오래 살아 내가 죽었다는 소리 듣고 계속 울다가 딱 일주일 후에 죽어 알겠지 언니 나 기다리고 있을게</p>
+    </text>
+</SJML>

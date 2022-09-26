@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100243</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복한  씨앗</title>
+            <author id="P00243" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김아람</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_씨앗">
+        <p>
+            <s>행복한  씨았</s>
+        </p>
+        <p>
+            <s>작은 씨았 하나가 땅에 떨어지네</s>
+            <s>오랜 시간을 기다리며 땅속으로 깊이 뿌리를 내리고 잎과 줄기를 뻤어</s>
+        </p>
+        <p>
+            <s>아름다운 꽃을 피우고 마지막으로 열매를 맺는 식물 작은 씨았을 위해 식물을 많이 심어야 됀다네.</s>
+            <s>그리고 식물은 우리에게 기쁨을 준다네.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100534</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>각설탕</title>
+            <author id="P00534" age="13" occupation="고등학생" sex="F" submission="온라인" handwriting="No">정채현</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_각설탕">
+        <p>
+            <s>거칠면서도 달콤한 목소리</s>
+            <s>새하얀 네 피부</s>
+            <s>내 눈 속으로</s>
+            <s>사르르, 사르르</s>
+        </p>
+        <p>
+            <s>사소한 습관과 말투</s>
+            <s>너의 작고작은 것도</s>
+            <s>내 맘 속으로</s>
+            <s>사르르, 사르르</s>
+        </p>
+        <p>
+            <s>네 마음이라는 찬장을 열어</s>
+            <s>너에게 닿았을 때의 촉감</s>
+            <s>내 신경세포가</s>
+            <s>사르르, 사르르</s>
+        </p>
+        <p>
+            <s>내 마음의 쌉사름한 커피</s>
+            <s>그 커피의 맛을 바꿔준 너</s>
+            <s>너 때문에 내가</s>
+            <s>사르르, 사르르</s>
+        </p>
+    </text>
+</SJML>

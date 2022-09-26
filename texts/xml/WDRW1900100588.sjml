@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100588</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠는 없다</title>
+            <author id="P00588" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">김채영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="아버지">
+        <p>아빠는 없다. 나에게 아빠는 없다. 나에게 아빠는 없었다. 애초에 그건 나에게 없는 단어였다</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>용기</title>
+            <author id="P00079" age="37" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_용기">
+        <p>9일 하루 함께 있었는데 내게 힘이 생겼다. 다시 누군가를 그대로 용납할 수 있는 힘. 그리고 새삼스럽게도 내가 있는  이곳은 사랑도 없고 불안함이 점철된 공간이라는 생각이 강하게 다가왔다.</p>
+    </text>
+</SJML>

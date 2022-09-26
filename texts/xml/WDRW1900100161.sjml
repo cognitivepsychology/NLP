@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100161</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>청소기</title>
+            <author id="P00161" age="29" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">유진영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_청소기">
+        <p>
+            <s>냠냠쩝쩝 맛있게 먼지 먹는 청소기</s>
+            <s>하루 종일 돌아 다니며 먹기만 하네</s>
+        </p>
+        <p>
+            <s>먹고 먹고 또 먹다보면</s>
+            <s>먼지로 배가 빵빵해지지</s>
+        </p>
+        <p>
+            <s>그래도 한번 통을 비워내면 다시 날씬해지네</s>
+        </p>
+        <p>
+            <s>청소기야 넌 왜 살도 안찌고 항상 날씬하니</s>
+        </p>
+        <p>
+            <s>청소기야 너는 왜 먹기만 하는데 항상 칭찬을 듣니</s>
+        </p>
+        <p>
+            <s>청소기야 나도 너같았으면</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100181</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>현실은  현실일 뿐이다.</title>
+            <author id="P00181" age="48" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="현실">
+        <p>현실은  현실일 뿐입니다.</p>
+        <p>살아가면서 수많은 일들을 겪었을테고 앞으로도 겪어나갈 것입니다.</p>
+        <p>지금 당면한 현실은 자신의 과거 그리고 미래와  분명 연관이 있을 것입니다.</p>
+        <p>없다면 그게 이상한 것이겠지요.</p>
+        <p>하지만</p>
+        <p>서두에 언급한대로 현실은 현실일 뿐입니다.</p>
+        <p>과거에 얽매이지말고 미래를 환상적으로 상상하지말고</p>
+        <p>단지 자신 앞에 드러난 현실에 최선을 다한다면</p>
+        <p>지나버린 자신의 과거도 아름답게 느껴질 수 있을테고</p>
+        <p>다가올 미래도 조금 더 편안하게 안주할 수 있지않을까요?</p>
+        <p>현실은 그저 자신이 최선을 다해야할 현실일 뿐입니다.</p>
+    </text>
+</SJML>

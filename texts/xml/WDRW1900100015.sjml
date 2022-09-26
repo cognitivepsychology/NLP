@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소금이 온다</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191204" subclass="null_소금">
+        <p>나는소금이 나오는 게곡에 가보고 싶어진다.</p>
+    </text>
+</SJML>

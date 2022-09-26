@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100311</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내성발톱과 사랑</title>
+            <author id="P00311" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">박민경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사랑">
+        <p>내성발톱과 사랑 이렇게 써두고 보니 웃기기도 하다</p>
+        <p>그도 그럴것이 보통 더럽고 하찮게 여겨지는 발톱과 보통 깨끗하고 숭고하다고 여겨지는 사랑의 조합이라니</p>
+        <p>하지만 내성발톱과 사랑은 비슷한것같다</p>
+        <p>발톱은 평소에는 발톱속의 여린살을 보호해준다 하지만 이 발톱이 점점 파고들어 살을 상처내고 결국 쉽게 곪아버리고 만다</p>
+        <p>사랑도 그렇지않은가? 나를 따스하게 감싸주던 사랑도 결국 점점 더 감싸려다 나를 파고들어 상처입히고 나를 곪게 하는것이다</p>
+        <p>발톱이 사람 마음대로 펴지라고 하면 펴질까?</p>
+        <p>절대 아니다</p>
+        <p>사랑도 결국 사람의 마음이지만 사람 마음대로 되지않는다 이 얼마나 기구하고도 웃긴가 발톱과 같은 사랑이여...</p>
+    </text>
+</SJML>

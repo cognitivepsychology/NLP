@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100565</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>매해의 끝</title>
+            <author id="P00565" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="끝">
+        <p>매 년 연말이 되면 무슨 생각을 했었지? 그때의 기분은 비교적 선명한데 말이다. 음, 올해는 무얼 했었지 또 한 해가 갔구나 나는 어떤 사람인가 어떤 사람으로서 살고 있는가. 다른 친구들은, 주변 사람들은 어떠한지 돌아보기도 하고. 한 해의 끝이란 것도 사실은 인간이 정해놓은 지구의 한 바퀴일 뿐인데. 그냥 그것을 생각하며 시원섭섭함을 떠올리는 내가 웃기게 느껴지기도 한다.</p>
+    </text>
+</SJML>

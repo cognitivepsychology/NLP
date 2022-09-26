@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100525</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>글을 쓰는 것</title>
+            <author id="P00525" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_글쓰기">
+        <p>글을 읽는 것은 쉬운 데 글을 쓰는 것은 어렵다. 무엇을 소재로 해야 할 지, 시작은 어떻게 해야 할 지, 끝은 어떻게 맺어야 할 지 모든 것을 정해야 한다. 주제를 주고 양식을 지켜서 글을 쓰는 것이 자유롭게 글을 쓰라는 것보다 더 쉽다.</p>
+    </text>
+</SJML>

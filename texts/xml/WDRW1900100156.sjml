@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100156</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>쌀국집 간 날</title>
+            <author id="P00156" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신이안</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_쌀국수">
+        <p>나는 오늘 쌀국수 집 표다나에 가려고 했는데 걸어가서 1시간이 걸렸는데 문을 닫았다.그래서 나,누나,엄마는 분타라는 쌀국수 집에 갔다. 1번 가보긴 했는데 너무나도 맛있었다. 처음에 갔을때는 플라스틱 컵이었는데 동그라미 모양 컵으로 바뀌어서 기분이 좋았다. 쌀국수 면을 2그릇이나 먹었다. 참 맜있었다.</p>
+    </text>
+</SJML>

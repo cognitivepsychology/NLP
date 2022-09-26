@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100569</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이렇게 비가 내리는데 견고한 나무들에 대해서. </title>
+            <author id="P00569" age="21" occupation="무직" sex="F" submission="온라인" handwriting="No">김윤경</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나무">
+        <p>비가 내린다. 나무들은 견고하게 제자리에 서있다. 여태것 태풍이 불면 아주 강한 비바람으로 인해 나무가 휘청이는 줄로만 알았더니 아니었다. 오직 바람에 의해서만 그런 것임을 알게 된 것이다. 비가 내리는 동안 정반대에 위치한 땅만이 견고함 그리고 우직함으로 흡수를 하고 있는 것이었다. 어쩐지 빗방울과 땅 주변은 어두워진 하늘에 대비되어  나뭇잎과 우직 서있는 갈색 통나무가 더욱이 짙게 느껴진다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100107</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈</title>
+            <author id="P00107" age="21" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김준수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="눈">
+        <p>
+            <s>하늘에서 눈이 내린다.</s>
+            <s>어떤 이에겐 소망을</s>
+            <s>어떤 이에겐 절망을</s>
+            <s>순수의 상징이던 눈도</s>
+            <s>빠르게 바뀌는 사회는  적응하지 못하나 보다.</s>
+        </p>
+    </text>
+</SJML>
