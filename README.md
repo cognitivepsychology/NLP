@@ -7,4 +7,10 @@
 
 * **[week3.html](http://cognitivepsychology.github.io/NLP/week3.html):** 3주차 수업자료: 텍스트 마이닝을 사용한 자연언어처리 #1: 온라인 데이터 수집. 해당 자료를 열람하려면 링크를 클릭할 것. 
 
+## 2. 4주차 수업자료: 텍스트 마이닝을 사용한 자연언어처리 #2: 감성분석
+
 * **[week4.html](http://cognitivepsychology.github.io/NLP/week4.html):** 4주차 수업자료: 텍스트 마이닝을 사용한 자연언어처리 #2: 감성분석. 해당 자료를 열람하려면 링크를 클릭할 것. 
+
+## 3. 5주차 수업자료: 텍스트 마이닝을 사용한 자연언어처리 #3: 토픽 모델링
+
+* **[week5.html](http://cognitivepsychology.github.io/NLP/week5.html):** 5주차 수업자료: 텍스트 마이닝을 사용한 자연언어처리 #3: 토픽 모델링. 해당 자료를 열람하려면 링크를 클릭할 것. 
