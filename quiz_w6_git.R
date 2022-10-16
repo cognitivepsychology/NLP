@@ -8,7 +8,7 @@ options(max.print = 1500) # 최대 데이터 출력 개수 1500개.
 
 ## 1) doc_type:author 열(총 8개 열)과 summary_entire의 original_text 섹션 열로 구성된 티블을 생성해주세요.
 ## 2) ipc(분야)에 상관없이 문화, 예술, 음악, 미술, 체육, 스포츠 관련 학회 출판 논문의 초록을 추출한 뒤 article.culture 객체에 할당헤주세요.
-## 3) 문서 ID와 논문초록(총 32000개)을 티블 형식으로 추출해주세요.
+## 3) 문서 ID와 논문초록을 티블 형식으로 추출해주세요.
 ## 4) tidytext 패키지를 사용하여 RcppMeCab의 pos 함수로 토큰화한 뒤 고유명사와 일반명사만 추출한 뒤 article.culture.mecab 객체에 할당해주세요.
 
 # (2) 토큰화된 논문초록을 tm 패키지를 사용하여 DTM 객체로 만들어주세요.
