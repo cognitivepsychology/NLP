@@ -23,7 +23,7 @@
 
 ## 5. 8주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리
 
-* **[week8.html](http://cognitivepsychology.github.io/NLP/week7.html):** 8주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리. 해당 자료를 열람하려면 링크를 클릭할 것. 
+* **[week8.html](http://cognitivepsychology.github.io/NLP/week8.html):** 8주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리. 해당 자료를 열람하려면 링크를 클릭할 것. 
 
 * **[week8.실습자료](https://drive.google.com/file/d/18RI_IGjb9W18XO-KK0KSl92PfoS-ZRFn/view?usp=sharing):** 8주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리. 해당 자료를 내려받으려면 링크를 클릭할 것. 
 
