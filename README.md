@@ -21,3 +21,6 @@
 
 * **[week7.html](http://cognitivepsychology.github.io/NLP/week7.html):** 7주차 수업자료: 기계학습을 사용한 자연언어처리 #1: 기계학습 개관. 해당 자료를 열람하려면 링크를 클릭할 것. 
 
+## 5. 8주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리
+
+* **[week8.html](http://cognitivepsychology.github.io/NLP/week7.html):** 8차 수업자료: 기계학습을 사용한 자연언어처리 #2: 모형구축 과정 및 데이터 전처리. 해당 자료를 열람하려면 링크를 클릭할 것. 
