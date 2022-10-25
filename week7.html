@@ -1706,7 +1706,7 @@ div.tocify {
 <ul>
 <li>주의사항
 <ul>
-<li>기계학습 모형이 문류문제를 해결할 때 실은 특정 층위(yes vs. no)를
+<li>기계학습 모형이 분류문제를 해결할 때 실은 특정 층위(yes vs. no)를
 예측하는 것이 아니라, 특정 층위의
 <strong>확률(probability)</strong>(yes: 0.64 vs. no: 0.35)을 예측하는
 것임. <span class="math inline">\(\rightarrow\)</span> 기본적으로 가장
@@ -1788,12 +1788,12 @@ EDA)의 목적으로도 사용.</li>
 </div>
 <div id="기계학습을-사용한-자연언어처리-개관" class="section level2">
 <h2>(3) <strong>기계학습을 사용한 자연언어처리</strong> 개관</h2>
-<div id="모형구축-과정-및-기계학습의-기본개념-개관" class="section level3">
-<h3>1) 모형구축 과정 및 기계학습의 기본개념 개관</h3>
+<div id="모형구축-과정" class="section level3">
+<h3>1) 모형구축 과정</h3>
 <ul>
 <li>특성변수 선처리하기(feature engineering).</li>
 <li>데이터 분절하기(data splitting).</li>
-<li>모형 타당도 검증 및 초매개변수 튜닝(model validation &amp;
+<li>모형 타당도 검증 및 초매개변수 조정(model validation &amp;
 hyperparameter tuning).</li>
 <li>모형 수행의 질 측정하기(performance measurement).</li>
 </ul>
@@ -1805,13 +1805,13 @@ hyperparameter tuning).</li>
 <ul>
 <li>선형회귀(linear regression).</li>
 <li>로지스틱 회귀(logistic regression).</li>
-<li>제한된 회귀(regularized regression): 과적합 방지를 위한
+<li>규제 회귀(regularized regression): 과적합 방지를 위한
 제한장치들([EX] lasso penalty, ridge penalty)을 장착한 일반화
 선형회귀(generalized linear regression models)의 일종.</li>
 </ul></li>
 <li>분류
 <ul>
-<li><em>k</em>-근접이웃(<em>k</em>-nearest neighbors).</li>
+<li><em>k</em>-최근접 이웃(<em>k</em>-nearest neighbors).</li>
 <li>결정 나무(decision trees).</li>
 <li>랜덤 포레스트(random forests).</li>
 <li>서포트 벡터 머신(support vector machine).</li>
