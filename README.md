@@ -29,4 +29,8 @@
 
 ## 6. 11주차 수업자료: 기계학습을 사용한 자연언어처리 #3: 지도학습 - 회귀
 
-* **[week11.html](http://cognitivepsychology.github.io/NLP/week11.html):** 11주차 수업자료: 기계학습을 사용한 자연언어처리 #2: 지도학습 - 회귀. 해당 자료를 열람하려면 링크를 클릭할 것.
+* **[week11.html](http://cognitivepsychology.github.io/NLP/week11.html):** 11주차 수업자료: 기계학습을 사용한 자연언어처리 #3: 지도학습 - 회귀. 해당 자료를 열람하려면 링크를 클릭할 것.
+
+## 7. 12주차 수업자료: 기계학습을 사용한 자연언어처리 #4 지도학습 - 분류
+
+* **[week12.html](http://cognitivepsychology.github.io/NLP/week12.html):** 12주차 수업자료: 기계학습을 사용한 자연언어처리 #4: 지도학습 - 분류. 해당 자료를 열람하려면 링크를 클릭할 것.
