@@ -41,4 +41,4 @@
 
 ## 9. 15주차 수업자료: 딥 러닝을 사용한 자연언어처리
 
-* **[week14.html](http://cognitivepsychology.github.io/NLP/week14.html):** 15주차 수업자료: 딥 러닝을 사용한 자연언어처리. 해당 자료를 열람하려면 링크를 클릭할 것.
+* **[week15.html](http://cognitivepsychology.github.io/NLP/week15.html):** 15주차 수업자료: 딥 러닝을 사용한 자연언어처리. 해당 자료를 열람하려면 링크를 클릭할 것.
