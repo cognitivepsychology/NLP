@@ -42,3 +42,7 @@
 ## 9. 15주차 수업자료: 딥 러닝을 사용한 자연언어처리
 
 * **[week15.html](http://cognitivepsychology.github.io/NLP/week15.html):** 15주차 수업자료: 딥 러닝을 사용한 자연언어처리. 해당 자료를 열람하려면 링크를 클릭할 것.
+
+## 10. 15주차 특강자료: R을 사용한 선형혼합효과모형 분석
+
+* **[week15_lme.html](http://cognitivepsychology.github.io/NLP/week15_lme.html):** 15주차 특강자료: 딥R을 사용한 선형혼합효과모형 분석. 해당 자료를 열람하려면 링크를 클릭할 것.
